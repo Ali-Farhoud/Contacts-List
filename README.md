@@ -9,3 +9,4 @@ When the user types in the search field, all contacts with names that don't matc
 
 - usage of the document object model to manipulate html elements
 - perform functions when events are fired
+- used css framework Bootstrap for styling
